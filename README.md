@@ -1,6 +1,6 @@
 <h1 align="center">Recriando Interface Netflix</h1> 
   
-##  Projeto do Bootcamp Take Blip Web Developer
+   <h3 align="center">Projeto do Bootcamp Take Blip Web Developer</h3>
 
 ![Astroflix](https://user-images.githubusercontent.com/89087399/158921709-ef1064d9-445a-446a-9cc6-40e3f69ec498.gif)
 
